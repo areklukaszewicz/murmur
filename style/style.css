@@ -1,0 +1,75 @@
+body {
+    background-image: url("../img/murmur.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: left bottom;
+    font-family: sans-serif
+}
+
+.col {
+    border-left: solid 2px red;
+    float: left;
+    width: 270px;
+    padding: 10px
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+    border-radius: 10px;
+}
+
+.photo {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.tweet {
+    border-radius: 10px;
+    width: 225px;
+    background-color: whitesmoke;
+    word-wrap: break-word
+}
+
+.comment {
+    border-radius: 10px;
+    width: 225px;
+    background-color: lavender;
+    word-wrap: break-word
+}
+
+.message {
+    border-radius: 10px;
+    width: 225px;
+    background-color: lavender;
+    word-wrap: break-word
+}
+
+.unread {
+    border-color: red;
+    border-style: solid;
+}
+
+.form {
+    border-radius: 10px;
+    width: 225px;
+    background-color: cornflowerblue
+}
+
+.menu {
+    border-radius: 10px;
+    width: 225px;
+    background-color: mediumslateblue
+}
+
+.menu a {
+        color: white
+    }
+
+.start {
+    border-radius: 10px;
+    width: 250px;
+    background-color: lavender
+}
